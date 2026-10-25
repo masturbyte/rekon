@@ -27,17 +27,16 @@ banner() {
 clear
 echo -e "${CYAN}${B}"
 cat <<'EOF'
-                 d8b
-                 ?88
-                  88b
-  88bd88b d8888b  888  d88' d8888b   88bd88b
-  88P'  `d8b_,dP  888bd8P' d8P' ?88  88P' ?8b
- d88     88b     d88888b   88b  d88 d88   88P
-d88'     `?888P'd88' `?88b,`?8888P'd88'   88b
-  Ahmed-kori @masturbyte
+██████╗ ███████╗ ██████╗ ██████╗ ███╗   ██╗
+██╔══██╗██╔════╝██╔════╝██╔═══██╗████╗  ██║
+██████╔╝█████╗  ██║     ██║   ██║██╔██╗ ██║
+██╔══██╗██╔══╝  ██║     ██║   ██║██║╚██╗██║
+██║  ██║███████╗╚██████╗╚██████╔╝██║ ╚████║
+╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═══╝
 
+       [ Ahmed Adel | @mastubyte ]
 EOF
-echo -e "${NC}${DIM}        All-in-One Recon • subdomains -> ports -> http -> CVEs -> report${NC}"
+echo -e "${NC}${DIM} All-in-One Recon • subdomains -> ports -> http -> CVEs -> report${NC}"
 hr
 }
 
